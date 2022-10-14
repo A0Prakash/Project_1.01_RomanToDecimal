@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3f08de5-cc93-4b07-9996-0739c9f3e084" name="Changes" comment="RomanToDecimal_Project_1.01_for APCS">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1.01_RomantoDecimal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToDecimal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fcry6g8LlS4e0EFjeOgWrM2qmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/26prakash/Desktop/CompSci/github/Project_1.01_RomantoDecimal&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RomanToDecimalTest">
+    <configuration name="RomanToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomanToDecimal" />
+      <module name="Project_1.01_RomantoDecimal" />
+      <option name="PROGRAM_PARAMETERS" value="I i II ii III iii IV iv V v VI vi VII vii VIII viii IX ix X x XI xi XIV xiv XV xv XIX xix XXIX xxix XXXIV xxxiv XLIX xlix LXXXIV lxxxiv XCIV xciv XCIX xcix CCCXCIV cccxciv CDXCIV cdxciv CMXCIV cmxciv MCMLXII mcmlxii MMCDIX mmcdix MMCDXCIV mmcdxciv CMXCIV cmxciv CMXCIV cmxciv MMCMXCIX mmcmxcix MMMMCMXCIX mmmmcmxcix IIVI iivi IIIVII iiivii IIIXVIII iiixviii IXIXIX ixixix IVIXXLXCCDCM ivixxlxccdcm XXXXXXXXXX xxxxxxxxxx LXCID lxcid XMXVIVIIIIV xmxviviiiiv MXMXVIVIXII mxmxvivixii MXMXVIVIXIIVIII mxmxvivixiiviii MMCCCDLXIIIVIX mmcccdlxiiivix MMMCMCMCDIIIX mmmcmcmcdiiix MMMMMCDCDCD mmmmmcdcdcd I_am_Batman ISIS_is_not_a_valid_Roman_numeral MMMMMGood mmmmmgood MMCMLXIJMMCD mmcmlxijmmcd LXHID lxhid IVXLCDME ivxlcdme SWEET_BRUH sweet_bruh          " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToDecimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_1.01_RomantoDecimal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanToDecimalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RomanToDecimal" />
+      <item itemvalue="JUnit.RomanToDecimalTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanToDecimalTest" />
+        <item itemvalue="Application.RomanToDecimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f08de5-cc93-4b07-9996-0739c9f3e084" name="Changes" comment="" />
+      <created>1664802470227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664802470227</updated>
+      <workItem from="1664802471323" duration="2191000" />
+      <workItem from="1665068736352" duration="8453000" />
+      <workItem from="1665262232327" duration="2744000" />
+      <workItem from="1665353661164" duration="6623000" />
+      <workItem from="1665601595599" duration="599000" />
+      <workItem from="1665616637398" duration="4762000" />
+      <workItem from="1665666110138" duration="11659000" />
+    </task>
+    <task id="LOCAL-00001" summary="RomanToDecimal_Project_1.01_for APCS">
+      <created>1665710498241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665710498241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RomanToDecimal_Project_1.01_for APCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="RomanToDecimal_Project_1.01_for APCS" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_1_01_RomantoDecimal$RomanToDecimal.ic" NAME="RomanToDecimal Coverage Results" MODIFIED="1665492701076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

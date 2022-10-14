@@ -6,6 +6,8 @@ public class RomanToDecimal {
     /**
      * @author 26prakash
      * @version 10.11.2022
+     * Program that takes roman numerals and converts them to decimal numbers
+     * Extra for this project is logically incorrect detection: lines 85, 86, and 97 should define all functions and statements involved with extra.
      */
 
     /**
