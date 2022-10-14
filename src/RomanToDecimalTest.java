@@ -1,8 +1,19 @@
 import static org.junit.Assert.*;
 
+/**
+ * @author 26prakash
+ * @version 10.13.2022
+ * junit testing program for RomanToDecimal class
+ */
+
 public class RomanToDecimalTest {
 
     @org.junit.Test
+    /**
+     * romanToDecimal method of RomanToDecimalTest class
+     * uses 18 assertEquals methods, 10 valid, 4 invalid, 4 illogical
+     * uses 2 asserNotEquals methods
+     */
     public void romanToDecimal() {
         assertEquals(RomanToDecimal.romanToDecimal("X"), 10);
         assertEquals(RomanToDecimal.romanToDecimal("CLIX"), 159);
